@@ -1,2 +1,2 @@
-# react-hook-accordion
+# react-hooks-accordion
 Created with CodeSandbox
